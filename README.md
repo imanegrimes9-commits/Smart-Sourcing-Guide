@@ -68,5 +68,5 @@ Centralisez vos sources pour gagner en efficacité et automatiser vos citations.
 ## 🚀 Contribution
 Si vous avez d'autres outils utiles, n'hésitez pas à proposer une **Pull Request** !
 
-*Réalisé avec ❤️ pour la présentation du Thème 4 (Grimes imane et Hammoudi marwa).*
+*Réalisé avec ❤️ pour la présentation du Thème 4 (Grimes imane).*
 
